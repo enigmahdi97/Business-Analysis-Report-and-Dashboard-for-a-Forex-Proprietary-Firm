@@ -26,7 +26,7 @@ Tableau Dashboard:
 •	Geographical Insights: Interact with the data to pinpoint transaction hotspots and potential markets.
 •	Membership Engagement: Assess the distribution and transaction behavior across different membership tiers.
 •	Payment Method Preferences: Understand client preferences in payment methods to tailor service offerings.
-(In the GitHub repository: The .JPG file is a snapshot of the dashboard, the .twbx file is the tableau file, and here is the link for Tableau public dashboard report for viewing and interacting: 
+(In the GitHub repository: The .PNG file is a snapshot of the dashboard, the .twbx file is the tableau file, and here is the link for Tableau public dashboard report for viewing and interacting: 
 https://public.tableau.com/app/profile/muammer.galib.mahdi/viz/NVBusinessReport/Dashboard1 )
 
 Conclusion:
