@@ -11,11 +11,11 @@ Dataset and Preparation:
 
 Business Report:
   Alongside the dashboard, a detailed business report is provided in PDF format, which delineates key findings and insights. The report addresses various aspects such as:
-•	Transaction Dynamics
-•	Gender Distribution in Transactions
-•	Geographical User Base Insights
-•	Membership Distribution
-•	Preferred Payment Methods
+•	Transaction Dynamics.
+•	Gender Distribution in Transactions.
+•	Geographical User Base Insights.
+•	Membership Distribution.
+•	Preferred Payment Methods.
 The report is designed to give stakeholders a narrative understanding of the data, complementing the interactive visualizations with written analysis. (PDF file in the GitHub repository)
 
 Tableau Dashboard:
