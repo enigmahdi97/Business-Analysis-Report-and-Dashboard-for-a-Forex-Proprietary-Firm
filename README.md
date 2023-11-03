@@ -1,5 +1,7 @@
 # Business-Analysis-Report-and-Dashboard-for-a-Forex-Proprietary-Firm
 
+Business Analysis, Report, and Dashboard for a Forex Proprietary Firm
+
 Project Overview:
   This project presents a comprehensive Interactive Dashboard developed for a multinational forex proprietary firm, aimed at visualizing transaction trends, client demographics, and payment preferences. The project is the culmination of extensive data analysis and visualization efforts to provide actionable insights into the firm's operations and client behavior.
 
